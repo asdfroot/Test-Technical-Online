@@ -3,6 +3,7 @@ https://github.com/asdfroot/Test-Technical-Online/blob/main/images/01.png
 
 2. definisi tentang CI/CD adalah sebuah penghubung antar development dan operations
 untuk menyelesaikan sebuah projek agar projek tersebut dapat dirilis secara terstruktur 
+https://github.com/asdfroot/Test-Technical-Online/blob/main/images/02.png
 
 3.  public cloud adalah Cloud Computing di infrastruktur Internet dan private cloud adalah Cloud Computing di LAN. contoh public cloud seperti sosial media instagram, facebook, twitter dll. dan contoh dari private cloud yakni Software as a Service (SaaS), Platform as a Service (PaaS) dan IaaS.
 
