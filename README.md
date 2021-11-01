@@ -1,4 +1,5 @@
 1.definisi devops pada sebuah perusahaan IT adalah untuk mengetasi permasalahan yang ada pada perusahan tersebut seperti bug pada code-code,dan devops mengkordinasikannya pada tim development dan operations agar source code tersebut dapat berjalan dengan tepat dan efesien 
+https://github.com/asdfroot/Test-Technical-Online/blob/main/images/01.png
 
 2. definisi tentang CI/CD adalah sebuah penghubung antar development dan operations
 untuk menyelesaikan sebuah projek agar projek tersebut dapat dirilis secara terstruktur 
